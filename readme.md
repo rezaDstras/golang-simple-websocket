@@ -1,11 +1,13 @@
-#use below packages
+GOLANG SAMPLE WEBSOCKET
 
--route : go get github.com/bmizerany/pat
+use below packages
 
--rendering template : go get github.com/CloudyKit/jet/v6
+- route : go get github.com/bmizerany/pat
 
--webscoket : go get github.com/gorilla/websocket
+- rendering template : go get github.com/CloudyKit/jet/v6
 
--use notie library (tag script) for show alert : https://github.com/jaredreich/notie
+- webscoket : go get github.com/gorilla/websocket
 
--use reconnecting websocket javascript package : https://github.com/joewalnes/reconnecting-websocket
+- use notie library (script) for show alert : https://github.com/jaredreich/notie
+
+- use reconnecting websocket javascript package : https://github.com/joewalnes/reconnecting-websocket
